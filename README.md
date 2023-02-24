@@ -33,8 +33,13 @@
 
 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
+![image](https://user-images.githubusercontent.com/117778782/221200470-1a2b6eab-85c8-4866-9282-7617f4b7ae9c.png)
 
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
+![image](https://user-images.githubusercontent.com/117778782/221200861-2934f716-5505-4406-9e78-172ada503ef9.png)
+
+![image](https://user-images.githubusercontent.com/117778782/221201084-e9eda5eb-11c4-4559-8be6-55b61c494f6a.png)
 
 ## 6. VIDEO
 
@@ -42,7 +47,7 @@ LINK: https://youtu.be/wcbpOQCc6Oc
 
 ## 7. CONCLUSIONES
 
-- 
+- Al realizar el laboratorio, se utilizaron reglas básicas algebraicas, las cuales permitieron el fácil entendimiento y realización de los ejercicios, aplicando la factorización o racionalización, mas para divisiones, que nos servía para poder eliminar del denominador, la parte imaginaria, y además reconociendo el cambio de unidades, de polares a rectangulares o viceversa, pero hay que tomar en cuenta mucho el ángulo, de acuerdo al cuadrante donde se encuentre, y en ese caso, sumar o restar 180 grados, con la fórmula ya conocida.
 
 ## 8. BIBLIOGRAFIA
 
