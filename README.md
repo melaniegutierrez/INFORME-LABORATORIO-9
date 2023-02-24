@@ -41,6 +41,14 @@
 
 ![image](https://user-images.githubusercontent.com/117778782/221201084-e9eda5eb-11c4-4559-8be6-55b61c494f6a.png)
 
+![image](https://user-images.githubusercontent.com/117778782/221209118-09a14036-a4db-405a-abf1-b36f8cc642be.png)
+
+![image](https://user-images.githubusercontent.com/117778782/221209149-17fb6578-402f-4e50-821d-dff162c089ef.png)
+
+![image](https://user-images.githubusercontent.com/117778782/221209185-842e6c50-43f1-4aa1-8aee-cc44d35d2295.png)
+
+![image](https://user-images.githubusercontent.com/117778782/221209209-83d26511-f489-4a19-9e2b-28adf9573b70.png)
+
 ## 6. VIDEO
 
 LINK: https://youtu.be/wcbpOQCc6Oc
